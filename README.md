@@ -1,6 +1,4 @@
-Got it! I'll include your GitHub account in the `README.md` file. Here's an updated version:
 
-```markdown
 # Fake News Detection
 
 This project is a machine learning application to detect fake news articles using logistic regression and TF-IDF vectorization. The dataset used is **WELFake_Dataset.csv**, and the model classifies news articles as either "REAL" or "FAKE."
@@ -79,15 +77,9 @@ Confusion Matrix:
 The news article is predicted as: REAL
 ```
 
----
 
-## Acknowledgments
 
-- [Scikit-learn Documentation](https://scikit-learn.org/)
-- [Pandas Documentation](https://pandas.pydata.org/)
-- Dataset sourced from the `WELFake_Dataset`.
 
----
 
 
 
